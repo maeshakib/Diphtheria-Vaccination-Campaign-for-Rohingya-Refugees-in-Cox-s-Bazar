@@ -13,15 +13,21 @@ Under the Ministry of Health and Family Welfare (MOHFW) of Bangladesh and its Di
 <br/>
 
  C:\Users\SHAKIBM\OneDrive - UNHCR\Documents\Vaccine 2nd dose dashboard\all vaccine records dashboard
- 
+## Tool we used for distribution: 
+- Global Distribution Tool (GDT)
+- SQL Server
+- Excel
+- SSRS report
+
+
 ## Key contributions:
 * **Leadership and Coordination**: Led a verification team of 80 volunteers and 10 data management staff, coordinating efforts with WHO, UNICEF, implementing and operational partners, government officials, and the Civil Surgeon.
 * **Training and Support**: Conducted training sessions for volunteers, ensuring they were well-prepared for their roles.
 * **Planning and Logistics**: Supported the campaign with detailed planning and logistical support.
 * **Data Management**: Oversaw verification, reporting, data cleaning, and statistics generation.
 * **Verification Tools**: Utilized the Global Distribution Tool (GDT) for efficient distribution, proper verification, and ensuring the right people received the right vaccines.
-<br>
-<br>
+<br/>
+<br/>
 
  ## Some memories of campaign:
  
