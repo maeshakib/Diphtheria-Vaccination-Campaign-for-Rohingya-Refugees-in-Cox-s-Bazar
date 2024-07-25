@@ -1,11 +1,10 @@
 # Diphtheria-Vaccination-Campaign-for-Rohingya-Refugees-in-Cox-s-Bazar
 Diphtheria Vaccination Campaign for Rohingya Refugees in Cox's Bazar
 
-# COVID-19-Vaccination-in-Cox-s-Bazar-Rohingya-Refugee-Camps
-Under the Ministry of Health and Family Welfare (MOHFW) of Bangladesh and its Directorate General of Health Services (DGHS), in partnership with WHO, UNHCR, UNICEF, and other organizations, we successfully vaccinated 88% (379,320) of the Rohingya population above 18 years of age between August 2021 and September 2022 with 22 vaccination campaigns.
+Under the Ministry of Health and Family Welfare (MOHFW) of Bangladesh and its Directorate General of Health Services (DGHS), in partnership with WHO, UNHCR, UNICEF, and other organizations, we successfully vaccinated **88%** (379,320) of the Rohingya population above 18 years of age between August 2021 and September 2022 with **22 vaccination campaigns**.
 
 ## Covid-19 Vaccination majors campaign timeline
-<img align="left" alt="covid 19 vacciantion timeline" width="1000px" src="https://github.com/maeshakib/z_resources/blob/main/covid_19_major_campaign.png" /> <br>
+<img align="left" alt="Diphtheria vacciantion timeline" width="1000px" src="https://github.com/maeshakib/Diphtheria-Vaccination-Campaign-for-Rohingya-Refugees-in-Cox-s-Bazar/blob/main/diphteria_campaign_timeline.png" /> <br>
 <br>
 <br>
  C:\Users\SHAKIBM\OneDrive - UNHCR\Documents\Vaccine 2nd dose dashboard\all vaccine records dashboard
